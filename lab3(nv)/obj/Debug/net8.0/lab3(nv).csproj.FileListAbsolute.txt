@@ -1,0 +1,14 @@
+C:\Users\pasha\Desktop\oop\lab3(nv)\bin\Debug\net8.0\lab3(nv).exe
+C:\Users\pasha\Desktop\oop\lab3(nv)\bin\Debug\net8.0\lab3(nv).deps.json
+C:\Users\pasha\Desktop\oop\lab3(nv)\bin\Debug\net8.0\lab3(nv).runtimeconfig.json
+C:\Users\pasha\Desktop\oop\lab3(nv)\bin\Debug\net8.0\lab3(nv).dll
+C:\Users\pasha\Desktop\oop\lab3(nv)\bin\Debug\net8.0\lab3(nv).pdb
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).AssemblyInfoInputs.cache
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).AssemblyInfo.cs
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).csproj.CoreCompileInputs.cache
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).dll
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\refint\lab3(nv).dll
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).pdb
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\lab3(nv).genruntimeconfig.cache
+C:\Users\pasha\Desktop\oop\lab3(nv)\obj\Debug\net8.0\ref\lab3(nv).dll
